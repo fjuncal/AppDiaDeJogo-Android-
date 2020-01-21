@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DIA DE JOGO</string>
+    <string name="registrar">Registrar-se</string>
+    <string name="senha">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="login">Login</string>
+    <string name="times">Clubes da Série A</string>
+    <string name="entrar">Entrar</string>
+    <string name="Jogos">Escolha o jogo</string>
+    <string name="timess">Times</string>
+    <color name="verde">#27AE60</color>
+    <string-array name="times">
+        <item>Vasco</item>
+        <item>Botafogo</item>
+        <item>Fluminense</item>
+        <item>Santos</item>
+        <item>Palmeiras</item>
+        <item>Atlético-MG</item>
+        <item>São Paulo</item>
+        <item>Corinthians</item>
+        <item>Internacional</item>
+        <item>Athletico-PR</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Goiás</item>
+        <item>Grêmio</item>
+        <item>Fortaleza</item>
+        <item>Cruzeiro</item>
+        <item>Chapecoense</item>
+        <item>CSA</item>
+        <item>Avaí</item>
+        <item>Flamengo</item>
+    </string-array>
+    <string name="facebook_app_id">410133866354627</string> <string name="fb_login_protocol_scheme">fb410133866354627</string>
+</resources>

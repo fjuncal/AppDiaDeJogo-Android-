@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="time_1" type="id" />
+    <item name="time_2" type="id" />
+    <item name="navigation_refresh" type="id" />
+    <item name="navigation_profile" type="id" />
+</resources>
